@@ -39,7 +39,7 @@ width: 300px}
   border-radius: 50%;
   opacity:70px;}
   #HIS:hover {
-  transform: scale(1.2);
+  transform: scale(1.2);}
   .card {
     position: relative;
     display: flex;
@@ -53,7 +53,7 @@ width: 300px}
 }
 
 #foot {color:white;
-background-color: black;
+background-color: maroon;
 text-align: center;
 padding: 30px;}
 article {background-color:gray;
