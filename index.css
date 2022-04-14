@@ -1,0 +1,69 @@
+body {background-color:papayawhip;}
+header {
+  background-color:maroon;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  position:relative;
+  top:-20px;
+}
+button {height:60px;
+     width:250px;
+     border-radius:20%;
+     background-color:orange;
+      position: relative;
+      display: block;
+        margin-left: auto;
+        margin-right: auto;
+      text-align:center;
+      border-radius:10px;
+    font-weight: bold;
+    font-size:20px;
+      border-color: red;
+        color:white;
+      opacity:30px;
+      border: 1px red;
+ padding: 10px;
+ box-shadow: 4px 4px teal;}
+button:hover {background-color:teal;
+height: 80px;
+width: 300px}
+#para{
+  text-align: center;
+  font-size:50px;
+}
+#HIS { display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  opacity:70px;}
+  #HIS:hover {
+  transform: scale(1.2);
+  .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+#foot {color:white;
+background-color: black;
+text-align: center;
+padding: 30px;}
+article {background-color:gray;
+color: white;
+height: 300px;
+float: right;
+width: 70%;}
+#nav {
+  background-color:maroon;
+  float: left;
+  width:30%;
+  height: 300px;
+}
