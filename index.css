@@ -53,7 +53,7 @@ width: 300px}
 }
 
 #foot {color:white;
-background-color: maroon;
+background-color: gray;
 text-align: center;
 padding: 30px;}
 article {background-color:gray;
@@ -62,8 +62,11 @@ height: 300px;
 float: right;
 width: 70%;}
 #nav {
-  background-color:maroon;
+  background-color:wheat;
   float: left;
   width:30%;
   height: 300px;
+}
+.table{
+  background-color:maroon;
 }
